@@ -1,2 +1,2 @@
 # Loading-animation
- A loading animation for while waiting for a page to load.
+ A loading animation created with html5&css3.
