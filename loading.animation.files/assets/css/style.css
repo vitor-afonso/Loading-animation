@@ -13,10 +13,18 @@ body {
     justify-content: center;
     align-items: center;
 }
+header {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
 .anim-area{
     display: flex;
     justify-content: center;
-    margin-bottom: 500px;
+    margin-bottom: 300px;
+}
+h2 {
+    font-size: 50px;
 }
 
 @keyframes load {
@@ -74,7 +82,7 @@ body {
 .bola1 {
     display: fl;
     margin-top: 100px;
-    margin-right: 175px;
+    
     position: absolute;
     width: 75px;
     height: 75px;
@@ -88,6 +96,7 @@ body {
 .bola2 {
     display: flex;
     margin-top: 100px;
+    margin-left: 250px;
     position: absolute;
     width: 75px;
     height: 75px;
@@ -101,7 +110,7 @@ body {
 .bola3 {
     display: flex;
     margin-top: 100px;
-    margin-left: 175px;
+    margin-left: 500px;
     position: absolute;
     width: 75px;
     height: 75px;
